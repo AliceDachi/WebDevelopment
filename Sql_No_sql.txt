@@ -1,4 +1,5 @@
-Ekpang Alice Dachi
+EKPANG ALICE DACHI
+2020/HND/31138/CS
 
 
 Differences Between NoSQL and SQL 1. NoSQL is a non-relational database management system (DBMS) that does not require a fixed schema, links, or a simple scaling method. SQL databases are purely or primarily relational databases.
